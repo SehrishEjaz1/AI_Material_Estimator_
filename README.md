@@ -18,11 +18,12 @@ Given an installation area, tile dimensions, thickness, location type, and tile 
 ## 📁 Repository Structure
 
 ```
+├── F26-10.pdf                # Proposal
 ├── F26-10_Phase2.ipynb       # Data generation, preprocessing, EDA
 ├── F26-10_Phase3.ipynb       # Model training, evaluation, metrics
 ├── F26-10_Phase4.ipynb       # Model evaluation, hyperparameter tuning         
 ├── F26-10_Phase5.ipynb       # Final Streamlit web application (Gradio-based notebook version) 
-├── F26-10_dataset.csv        # Generated synthetic dataset (200 rows)
+├── F26-10_dataset.           # Generated synthetic dataset (200 rows)
 ├── README.md                 # This file
 ```
 
@@ -107,4 +108,4 @@ The dataset is fully synthetic — generated using real domain formulas from str
 **Course:** AI-2002 Artificial Intelligence  
 **University:** National University of Computer and Emerging Sciences — Lahore  
 **Instructor:** Dr. Hajra Waheed | **TA:** Talha Azhar  
-**Members:** Khadija A-Rahim, Sehrish Ejaz, Mahrukh Zubair, Ayesha Arshad
+**Members:** Sehrish Ejaz, Mahrukh Zubair, Ayesha Arshad
